@@ -3,8 +3,8 @@
 ## Problem Statement
 Develop a microservice to rank videos in real-time based on user interactions.
 
-## 🔁 Workflow
-
+## 🔁 Workflowhttps://github.com/Vanlv2/test.git
+![System Flow](./images/flow.png)
 ### Client (Frontend)
 1. **POST /interact**: Sends user interactions (view, like, comment, share, watch_time) to the backend via API.
 2. **WebSocket**: Receives real-time ranked video data from the server.
